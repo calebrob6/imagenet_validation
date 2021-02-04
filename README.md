@@ -10,3 +10,5 @@ The ILSVRC2012 validation images should be put in `data/val/`. The remaining fil
 - `synset_words.txt`
 
 After the data is organized the notebooks can be run in order to reproduce model validation results.
+
+
