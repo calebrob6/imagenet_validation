@@ -11,6 +11,7 @@ The ILSVRC2012 validation images should be put in `data/val/`. The remaining fil
 
 After the data is organized the notebooks can be run in order to reproduce model validation results.
 
+=======
 ## Update 2/4/2021
 
 - I was unable to find the ILSVRC2012 devkit online, so have included a copy of the 3 files (mentioned above) needed to run this in `data/` as well as the `COPYING` notice from the devkit [here](COPYING).
